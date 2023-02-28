@@ -1,0 +1,131 @@
+[
+  {
+    "Option a": "Unit Testing",
+    "Option b": "Integration Testing",
+    "Question: ": "Which testing is done by developer?",
+    "Correct Ans ": "a",
+    "Option c": "Sanity Testing",
+    "Option d": "Regression Testing"
+  },
+  {
+    "Option a": "Testing Phase",
+    "Option b": "Requirement Phase",
+    "Question: ": "Which of the following is not a valid phase of SDLC (Software Development Life Cycle)?",
+    "Correct Ans ": "d",
+    "Option c": "Deployment phase",
+    "Option d": "Testing closure"
+  },
+  {
+    "Option a": "White box and black box testing",
+    "Option b": "White-box testing",
+    "Question: ": "Which of the following testing is related to the boundary value analysis",
+    "Correct Ans ": "c",
+    "Option c": "Black box testing",
+    "Option d": "None of the above"
+  },
+  {
+    "Option a": "User's end",
+    "Option b": "Developer's end",
+    "Question: ": "In which environment we can performed the Alpha testing?",
+    "Correct Ans ": "b",
+    "Option c": "User's and developer's end",
+    "Option d": "None of the above"
+  },
+  {
+    "Option a": "Experience-based Test Design Technique\",",
+    "Option b": "White Box Test Design Technique",
+    "Question: ": "Exploratory testing is a ----- ?",
+    "Correct Ans ": "a",
+    "Option c": "Black Box Test Design Technique",
+    "Option d": "Grey Box Test Design Technique"
+  },
+  {
+    "Option a": "User's and developer's end",
+    "Option b": "Developer's end",
+    "Question: ": "In which environment we can performed the Beta testing?",
+    "Correct Ans ": "c",
+    "Option c": "User's end",
+    "Option d": "None of the above"
+  },
+  {
+    "Option a": "Structural testing",
+    "Option b": "Behavioral testing",
+    "Question: ": "Which of the following is not another name of white box testing?",
+    "Correct Ans ": "b",
+    "Option c": "Glass box testing",
+    "Option d": "None of the mentioned"
+  },
+  {
+    "Option a": "Unit Testing",
+    "Option b": "Black-box Testing",
+    "Question: ": "Which of the below testing is related to Non-functional testing?",
+    "Correct Ans ": "c",
+    "Option c": "Performance Testing",
+    "Option d": "None of the above"
+  },
+  {
+    "Option a": "The faults have been fixed",
+    "Option b": "All the tests run",
+    "Question: ": "When we have to stop the testing?",
+    "Correct Ans ": "d",
+    "Option c": "The time completed",
+    "Option d": "The risk is resolved"
+  },
+  {
+    "Option a": "White-box testing",
+    "Option b": "Grey box testing",
+    "Question: ": "Which testing technique is used for usability testing?",
+    "Correct Ans ": "c",
+    "Option c": "Black Box testing",
+    "Option d": "Combination of all"
+  },
+  {
+    "Option a": "Design Errors",
+    "Option b": "Interface Errors",
+    "Question: ": "What is the key objective of Integration testing?",
+    "Correct Ans ": "b",
+    "Option c": "Procedure Errors",
+    "Option d": "None of the mentioned"
+  },
+  {
+    "Option a": "Beta testing",
+    "Option b": "White-box testing",
+    "Question: ": "Which of the following testing is also called Acceptance testing?",
+    "Correct Ans ": "a",
+    "Option c": "Grey box testing",
+    "Option d": "Alpha testing"
+  },
+  {
+    "Option a": "Grey box testing",
+    "Option b": "Black box testing",
+    "Question: ": "-------- testing is used to check the code?",
+    "Correct Ans ": "c",
+    "Option c": "White-box testing",
+    "Option d": "None of the above"
+  },
+  {
+    "Option a": "Test Case",
+    "Option b": "Requirements Traceability Matrix [RTM]",
+    "Question: ": "Which of the following is not part of the Test document?",
+    "Correct Ans ": "d",
+    "Option c": "Test strategy",
+    "Option d": "Project Initiation Note [PIN]"
+  },
+  {
+    "Option a": "Boundary value analysis",
+    "Option b": "Code path analysis",
+    "Question: ": "Which of the below testing is related to black-box testing?",
+    "Correct Ans ": "a",
+    "Option c": "Basic path testing",
+    "Option d": "None of the above"
+  },
+  {
+    "Option a": "Integration testing",
+    "Option b": "Unit testing",
+    "Question: ": "What are the different levels of Testing?",
+    "Correct Ans ": "d",
+    "Option c": "System testing",
+    "Option d": "All of the above"
+  }
+
+]
